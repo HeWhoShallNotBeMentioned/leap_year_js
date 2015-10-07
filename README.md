@@ -1,6 +1,6 @@
 # leap_year_js
-triangles_js
-{Takes 3 number inputs and tells you the triangle type}, {September 6, 2015}
+
+{Determines whether a given year is leap year.}, {September 6, 2015}
 
 By {Chris Underwood & Andrew Brennewald}
 
